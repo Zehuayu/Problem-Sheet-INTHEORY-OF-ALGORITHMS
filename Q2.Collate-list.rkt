@@ -29,5 +29,5 @@
   
 
 ;running collatz-list function and input number 9
-(collatz-list 5)
+(collatz-list 9)
 
